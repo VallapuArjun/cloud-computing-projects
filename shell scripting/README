@@ -17,7 +17,7 @@
 * chmod-change mode
 * man + help-manual
 
-# commands
+
 
 # Create a new directory
 mkdir my_directory
