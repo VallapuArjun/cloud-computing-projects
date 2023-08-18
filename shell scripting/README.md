@@ -1,7 +1,6 @@
 # shell scripting
 
-* A shell script is a computer program designed to be run by the Unix/Linux shell.
-* A shell is a command-line interpreter and typical operations performed by shell scripts include file manipulation, program execution, and printing text.
+* shell scripting is set of linux commands used to perform the operations
 
 # Linux commands
 * cd-change directory
@@ -22,7 +21,7 @@
 # Create a new directory
 mkdir my_directory
 
-# Navigate into the new directory
+# Change into the new directory
 cd my_directory
 
 # Create a new text file
